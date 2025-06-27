@@ -8,6 +8,7 @@ YouTube video explanation:
 https://youtu.be/GiAj9WW1OfQ
 
 ![](https://img.itch.zone/aW1hZ2UvOTM1NzMzLzUzMTU0MzEucG5n/original/ay7ju0.png)
+![image](https://github.com/user-attachments/assets/c5656ea2-8d65-44de-b7c9-3e5492bf6fb7)
 
 Notes
 ---------------
@@ -34,3 +35,5 @@ Controls
 * 6 - Duffing Map
 * 7 - Ikeda Map
 * 8 - Chirikov Map
+* 9 - Shark Fin
+  
